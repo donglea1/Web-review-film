@@ -22,3 +22,15 @@
 
 8. SHARE VIDEO PAGE
 ![image](https://user-images.githubusercontent.com/83264542/199223753-01582f9d-3cdc-4cf9-a595-c0fe4d1a6e3c.png)
+
+
+                                          DATABASE CONTROL BY SQL SERVER 2019
+
+1. ERD
+![image](https://user-images.githubusercontent.com/83264542/199224480-740987e9-c947-4a94-b211-3878933a550b.png)
+
+2. USE CASE
+![image](https://user-images.githubusercontent.com/83264542/199224799-a784c27e-c0f6-4f03-9507-e5e93108a082.png)
+
+3. DIAGRAM
+![image](https://user-images.githubusercontent.com/83264542/199225238-f35639ab-f74e-4671-b7cd-2fd1b22e4f90.png)
